@@ -3,13 +3,24 @@
 This is the PyTorch implementation of the TSFCNet architecture for EEG-MI classification.
 
 # TSFCNet: Architecture
-![image](https://github.com/hongyizhi/TSFCNet/assets/138432060/91818f4f-9ee6-411c-9e99-613ed6e46256)
+![structv2](https://github.com/hongyizhi/TSFCNet/assets/138432060/7b4ffc60-4706-4a6c-a7ec-d9f9b3869bd9)
 
-# TSFCNet: Results
+# TSFCNet: Results (Hold-out Scenario)
 Dataset I: BCI Competition IV 2a Dataset<br>
 Dataset II: BCI Competition IV 2b Dataset<br>
-![image](https://github.com/hongyizhi/TSFCNet/assets/138432060/ae554271-f998-43be-9bfe-a86d030017ab) <br>
-![image](https://github.com/hongyizhi/TSFCNet/assets/138432060/a29476b5-e5b5-423b-9b8b-83a7f03cf022)
+Dataset III: OpenBMI Dataset<br>
+![image](https://github.com/hongyizhi/TSFCNet/assets/138432060/5d1fd918-66db-4867-aaf6-1b55d492e69c)
+
+![image](https://github.com/hongyizhi/TSFCNet/assets/138432060/d958dd02-ea60-4b49-97cf-46a7cd717f65)
+
+![image](https://github.com/hongyizhi/TSFCNet/assets/138432060/0395bb21-1741-4cc7-ba64-a4e50df90b55)
+
+# Reproduced
+A pytorch implementation for [EEGNeX](https://github.com/chenxiachan/EEGNeX).
+
+A pytorch implementation for [ATCNet](https://github.com/Altaheri/EEG-ATCNet).
+
+![image](https://github.com/hongyizhi/TSFCNet/assets/138432060/628feb92-80dc-4612-975e-d1fa88e4ae4a)
 
 
 # References:
