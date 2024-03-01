@@ -22,16 +22,19 @@ A pytorch implementation for [ATCNet](https://github.com/Altaheri/EEG-ATCNet).
 
 ![image](https://github.com/hongyizhi/TSFCNet/assets/138432060/628feb92-80dc-4612-975e-d1fa88e4ae4a)
 
-# Cite
+# Citation
 If you find this code useful to your research, please give credit to the following paper
-`@ARTICLE{zhi2023,
+
+```
+@ARTICLE{zhi2023,
   author={Zhi, Hongyi and Yu, Zhuliang and Yu, Tianyou and Gu, Zhenghui and Yang, Jian},
   journal={IEEE Transactions on Neural Systems and Rehabilitation Engineering}, 
   title={A Multi-Domain Convolutional Neural Network for EEG-Based Motor Imagery Decoding}, 
   year={2023},
   volume={31},
   pages={3988-3998}
-}`
+}
+```
 
 # References:
 *Ravikiran Mane, Effie Chew, Karen Chua, Kai Keng Ang, Neethu Robinson, A.P. Vinod, Seong-Whan Lee, and Cuntai Guan*, "*FBCNet: An Efficient Multi-view Convolutional Neural Network for Brain-Computer Interface*," *arXiv preprint arXiv:2104.01233 (2021) https://arxiv.org/abs/2104.01233*
